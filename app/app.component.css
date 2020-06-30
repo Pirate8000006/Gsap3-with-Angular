@@ -1,0 +1,11 @@
+.box,
+.box1 {
+    width: 100px;
+    height: 100px;
+    background: black;
+    margin: 1rem
+}
+
+.main {
+    margin: 5rem;
+}
